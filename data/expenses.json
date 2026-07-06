@@ -1,0 +1,22 @@
+{
+  "expenses": [
+    {
+      "id": 1783318863115001,
+      "date": "2026-07-06",
+      "amount": 250.0,
+      "category": "Food",
+      "description": "Lunch at restaurant"
+    },
+    {
+      "id": 1783319676749001,
+      "date": "2026-07-06",
+      "amount": 1000.0,
+      "category": "Bills",
+      "description": "Electericity bill"
+    }
+  ],
+  "budgets": {
+    "2026-07": 20000.0
+  },
+  "saved_at": "2026-07-06T12:06:03.677382"
+}
