@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/expenses.json
+data/backup/*.json
+data/exports/*.csv
+.venv/
+venv/
+*.egg-info/
